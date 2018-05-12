@@ -1,0 +1,35 @@
+_repo: Insect-Architecture_45496
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45496-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Rennie, James
+    birthdate: 1787
+    deathdate: 1867
+    gutenberg_agent_id: '43316'
+    url: http://www.gutenberg.org/2009/agents/43316
+  editor:
+    agent_name: Wood, J. G. (John George)
+    aliases:
+    - Forrest, George
+    - Wood, John George
+    birthdate: 1827
+    deathdate: 1889
+    gutenberg_agent_id: '8330'
+    url: http://www.gutenberg.org/2009/agents/8330
+description: ''
+gutenberg_issued: '2014-04-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45496'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Insects -- Behavior'
+- !lcc 'QL'
+title: Insect Architecture
+url: http://www.gutenberg.org/ebooks/45496
